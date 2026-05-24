@@ -166,3 +166,5 @@ If you're hiring, reviewing portfolios, or collaborating on VLSI block-level wor
 <img src="https://img.shields.io/badge/Theme-Tokyo_Night-24283b?style=flat-square" alt="Theme" />
 
 </div>
+
+<!-- Profile README active -->
