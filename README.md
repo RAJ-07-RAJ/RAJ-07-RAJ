@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" alt="wave" />
-<b>Hi, I'm Raj</b>
+<b>Hi, I'm Narsimha Raj</b>
 
 <br /><br />
 
