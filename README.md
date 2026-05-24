@@ -127,8 +127,22 @@ I develop synchronous and asynchronous FIFOs, AXI-Stream interfaces, processor d
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION G — CURRENT FOCUS                                          -->
+<!-- SECTION G — FEATURED PROJECTS                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## Featured Projects
+
+| Project | Focus | Link |
+|---------|--------|------|
+| **Verification Automation** | Python DV — logs, regression, coverage | [verification-automation](https://github.com/RAJ-07-RAJ/verification-automation) |
+| **Async FIFO** | Dual-clock · Gray pointers · CDC | [FIFO_ASYNC](https://github.com/RAJ-07-RAJ/FIFO_ASYNC) |
+| **Sync FIFO Study** | 3 full/empty architectures compared | [FIFO_S](https://github.com/RAJ-07-RAJ/FIFO_S) |
+| **AXI-Stream FIFO** | SystemVerilog stream buffering | [AXIS_FIF0](https://github.com/RAJ-07-RAJ/AXIS_FIF0) |
+| **AXI-Stream M/S** | Handshake · packet transfer | [AXI_STREAM](https://github.com/RAJ-07-RAJ/AXI_STREAM) |
+| **MIPS Single-Cycle** | 32-bit CPU datapath + control | [MIPS_32_SINGLE_CYCLE](https://github.com/RAJ-07-RAJ/MIPS_32_SINGLE_CYCLE) |
+| **CDC Techniques** | Synchronizers · handshake · reference | [CDC_TECHNIQUES](https://github.com/RAJ-07-RAJ/CDC_TECHNIQUES) |
+
+---
 
 ## Current Focus
 
