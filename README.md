@@ -50,8 +50,6 @@ I develop synchronous and asynchronous FIFOs, AXI-Stream interfaces, processor d
 <img src="https://img.shields.io/badge/Verilog-0288D1?style=for-the-badge" alt="Verilog" />
 <img src="https://img.shields.io/badge/SystemVerilog-5C6BC0?style=for-the-badge" alt="SystemVerilog" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TCL-1E88E5?style=for-the-badge" alt="TCL" />
-<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
 
 ### Design & Verification
 
